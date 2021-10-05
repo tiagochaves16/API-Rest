@@ -50,6 +50,7 @@ D:\FilmesAPI\FilmesAPI\bin\Debug\net5.0\AutoMapper.dll
 D:\FilmesAPI\FilmesAPI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\API-Rest\FilmesAPI\bin\Debug\net5.0\appsettings.Development.json
 C:\API-Rest\FilmesAPI\bin\Debug\net5.0\appsettings.json
+C:\API-Rest\FilmesAPI\bin\Debug\net5.0\libman.json
 C:\API-Rest\FilmesAPI\bin\Debug\net5.0\FilmesAPI.exe
 C:\API-Rest\FilmesAPI\bin\Debug\net5.0\FilmesAPI.deps.json
 C:\API-Rest\FilmesAPI\bin\Debug\net5.0\FilmesAPI.runtimeconfig.json
@@ -60,6 +61,8 @@ C:\API-Rest\FilmesAPI\bin\Debug\net5.0\FilmesAPI.pdb
 C:\API-Rest\FilmesAPI\bin\Debug\net5.0\AutoMapper.dll
 C:\API-Rest\FilmesAPI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\API-Rest\FilmesAPI\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\API-Rest\FilmesAPI\bin\Debug\net5.0\Castle.Core.dll
+C:\API-Rest\FilmesAPI\bin\Debug\net5.0\FluentResults.dll
 C:\API-Rest\FilmesAPI\bin\Debug\net5.0\Google.Protobuf.dll
 C:\API-Rest\FilmesAPI\bin\Debug\net5.0\Humanizer.dll
 C:\API-Rest\FilmesAPI\bin\Debug\net5.0\K4os.Compression.LZ4.dll
@@ -68,6 +71,7 @@ C:\API-Rest\FilmesAPI\bin\Debug\net5.0\K4os.Hash.xxHash.dll
 C:\API-Rest\FilmesAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
 C:\API-Rest\FilmesAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 C:\API-Rest\FilmesAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\API-Rest\FilmesAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
 C:\API-Rest\FilmesAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\API-Rest\FilmesAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
 C:\API-Rest\FilmesAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
@@ -82,7 +86,6 @@ C:\API-Rest\FilmesAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager
 C:\API-Rest\FilmesAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
 C:\API-Rest\FilmesAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
 C:\API-Rest\FilmesAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\API-Rest\FilmesAPI\obj\Debug\net5.0\FilmesAPI.csproj.AssemblyReference.cache
 C:\API-Rest\FilmesAPI\obj\Debug\net5.0\FilmesAPI.GeneratedMSBuildEditorConfig.editorconfig
 C:\API-Rest\FilmesAPI\obj\Debug\net5.0\FilmesAPI.AssemblyInfoInputs.cache
 C:\API-Rest\FilmesAPI\obj\Debug\net5.0\FilmesAPI.AssemblyInfo.cs
